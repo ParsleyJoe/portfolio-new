@@ -116,7 +116,7 @@ export default function Banner(): React.JSX.Element {
             <div className="">
               <p className="text-2xl"> A Developer who </p>
               <h1 className="text-5xl tracking-tight lg:text-7xl font-semibold text-white leading-tight">
-                is that
+                does it
                 <br /> for{" "}
                 <span className="relative inline-block">
                   <Image src="/assets/circle.png" alt="Circle" width={200} height={200} className="absolute mt-2" />
@@ -127,7 +127,7 @@ export default function Banner(): React.JSX.Element {
                 ...
               </h1>
               <p className="text-md text-white/80">
-                Because if the code does not impress you what else can?
+                Because you learn more when you are having fun
               </p>
             </div>
           </div>
@@ -138,16 +138,16 @@ export default function Banner(): React.JSX.Element {
             <span className="animate-pulse">|</span>
           </p>
           <p className="text-lg lg:text-xl text-white/90 tracking-wide flex flex-wrap items-center justify-center lg:justify-start gap-2">
-            <span>Currently, I&apos;m a Software Engineer at</span>
+            <span>Currently, I&apos;m a Student</span>
             <span className="flex items-center gap-2">
               <Image src="/assets/webhr.webp" alt="WebHR" width={20} height={20} className="w-5 h-5" style={{ width: "auto", height: "auto" }} />
-              <span className="text-blue-400 font-semibold">WebHR,</span>
+              <span className="text-blue-400 font-semibold">GCCBA-50</span>
             </span>
           </p>
           <p className="text-lg text-white/80 max-w-2xl mt-15 mx-auto lg:mx-0">
-            A self-taught UI/UX designer, functioning in the industry for 3+
-            years now. I make meaningful and delightful digital products that
-            create an equilibrium between user needs and business goals.
+		A Game-Developer/Software Developer who is making software
+		for around 2+ years now,  I make meaningful and delightful digital products 
+		that create an equilibrium between user needs and business goals.
           </p>
         </div>
       </div>
