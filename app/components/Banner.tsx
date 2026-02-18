@@ -68,7 +68,7 @@ export default function Banner(): React.JSX.Element {
                   <div className="relative">
                     <p className="text-white text-lg whitespace-nowrap">
                       Hello! I Am{" "}
-                      <span className="text-purple-400">Ibrahim Memon</span>
+                      <span className="text-purple-400">Ronit Ninania</span>
                     </p>
                   </div>
                   <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-0 h-0 border-l-8 border-l-transparent border-r-8 border-r-transparent border-t-8 border-t-white/10"></div>
@@ -76,7 +76,7 @@ export default function Banner(): React.JSX.Element {
               </div>
               <Image
                 src="/assets/me.png"
-                alt="Ibrahim Memon - Software Engineer and Designer"
+                alt="Ronit Ninania - Software Engineer and Game Developer"
                 width={300}
                 height={300}
                 className=" max-w-md absolute"
@@ -85,7 +85,7 @@ export default function Banner(): React.JSX.Element {
               />
               <Image
                 src="/assets/me-glow.png"
-                alt="Ibrahim Memon - Software Engineer and Designer"
+                alt="Ronit Ninania - Software Engineer and Game Developer"
                 width={300}
                 height={300}
                 className="max-w-md "
@@ -108,26 +108,26 @@ export default function Banner(): React.JSX.Element {
               <div style={{ bottom: 40, position: "relative" }}>
                 <p className="text-white text-lg">
                   Hello! I Am{" "}
-                  <span className="text-purple-400">Ibrahim Memon</span>
+                  <span className="text-purple-400">Ronit Ninania</span>
                 </p>
               </div>
               <div className="absolute -bottom-2 left-8 w-0 h-0 border-l-8 border-l-transparent border-r-8 border-r-transparent border-t-8 border-t-white/10"></div>
             </div>
             <div className="">
-              <p className="text-2xl"> A Designer who </p>
+              <p className="text-2xl"> A Developer</p>
               <h1 className="text-5xl tracking-tight lg:text-7xl font-semibold text-white leading-tight">
-                Judges a book
-                <br /> by its{" "}
+                
+                <br />  for fun{" "}
                 <span className="relative inline-block">
                   <Image src="/assets/circle.png" alt="Circle" width={200} height={200} className="absolute mt-2" />
                   <span className="bg-gradient-to-r from-violet-600 via-violet-400 to-violet-600 bg-clip-text text-transparent">
-                    cover
+                    code
                   </span>
                 </span>
                 ...
               </h1>
               <p className="text-md text-white/80">
-                Because if the cover does not impress you what else can?
+                Because if the code does not impress you what else can?
               </p>
             </div>
           </div>
