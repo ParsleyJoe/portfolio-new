@@ -10,9 +10,7 @@ export default function Footer(): React.JSX.Element {
             Contact
           </h2>
           <p className="text-md text-white/80 max-w-2xl mx-auto mb-8">
-            I&apos;m currently looking to join a cross-functional team that values 
-            improving people&apos;s lives through accessible design, or have a project 
-            in mind? Let&apos;s connect.
+        I’m currently looking to join a game development team focused on building engaging and polished gameplay experiences, or collaborate on an interesting project — let’s connect.
           </p>
           <a
             href="mailto:ronitninania@gmail.com"

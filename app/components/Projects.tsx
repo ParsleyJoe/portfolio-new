@@ -11,15 +11,15 @@ interface Project {
 const featuredProjects: Project[] = [
   {
     id: 1,
-    title: "NeuraWeb – Futuristic AI Website Landing Design",
-    description: "A sleek, dark-themed AI-powered landing page concept built in Figma. Designed for modern startups and futuristic digital products, it features glowing neon visuals, immersive UI, and a dynamic tone. The design encapsulates the cutting-edge possibilities of AI and tech, offering a glimpse into the future of online experiences for tech-forward companies.",
-    link: "https://www.figma.com/community/file/1441377868897233703/ai-website-landing-design",
+    title: "Alien Ships – Bullet Hell Arcade Game",
+    description: "Developed an arcade space shooter in C++ using the Raylib graphics library, implementing real-time input handling, projectile systems, collision detection, enemy AI behavior, and performance-conscious game loops.",
+    link: "WIP",
     image: "/projects/project-1.png",
   },
   {
     id: 2,
-    title: "Apple Vision Pro – HR Software Design",
-    description: "A futuristic HR software concept designed for Apple Vision Pro, built in Figma to reimagine attendance, leave tracking, and employee experience - all in one immersive interface.",
+    title: "KeepItSimple",
+    description: "Developed a Unity-based game in C# implementing enemy behavior systems, an interactive shop mechanic, and a structured UI system for gameplay flow and player progression.",
    link: "https://www.figma.com/community/file/1371824014208363481/apple-vision-pro-hr-software-design",
     image: "/projects/project-2.png",
   },
